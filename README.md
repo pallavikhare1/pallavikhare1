@@ -10,7 +10,7 @@
 
 - I’m a dedicated and highly motivated professional with a strong foundation   in  technical skills, interpersonal skills and valuable qualities. I bring a rare blend of technical knowledge, innovative thinking, & a practical, solution- oriented mindset.
 
-- With hands-on experience, industry-recognized certifications, and a strong record of consistency and commitment, I’m passionate about leveraging technology to solve real-world problems & deliver impactful results.
+- With hands-on experience, industry-recognized certifications, <br> and a strong record of consistency and commitment, I’m passionate about leveraging technology to solve real-world problems & deliver impactful results.
 
 - I’m a quick learner—adaptable, flexible, and always open to new challenges. My ambition and discipline drive my personal and professional excellence. I actively  seek  opportunities where I can expand my knowledge and contribute meaningfully to organizational goals and success.
 
