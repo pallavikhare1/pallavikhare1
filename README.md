@@ -4,7 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare1&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare3153&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare3153" /> </p>
+
 
 - 👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
@@ -29,7 +30,7 @@
 
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=pallavikhare1&theme=default&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pallavikhare3153&theme=default&hide_border=false)<br/>
 
 <!-- Snake Game Repo View -->
 
@@ -46,14 +47,12 @@
   <br/><br/><br/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavikhare1&show_icons=true&locale=en&layout=compact" alt="pallavikhare1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavikhare1&show_icons=true&locale=en" alt="pallavikhare1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavikhare1&" alt="pallavikhare1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavikhare3153&show_icons=true&locale=en" alt="pallavikhare3153" /></p>
 
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=pallavikhare1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
