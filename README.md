@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)](https://rishavchanda.io)
 <h1 align="center">🙏 Welcome to my profile.</h1>
 <h3 align="center">Versatile & Skilled developer in Java, React, JavaScript, HTML, CSS, Python, C, C++, Flutter, Dart, Spring & Power BI. Creating innovative secure & unique solutions. Full-stack development, Data Analytics, Software Design & App development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare3153&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare3153" /> </p>
 
