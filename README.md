@@ -20,11 +20,11 @@
 <br>
 
 
-👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
 
-📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
+📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)** 📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
+
+👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**  
 
 
 <br>
@@ -56,31 +56,4 @@
   <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavikhare3153&show_icons=true&locale=en" alt="pallavikhare3153" /></p>
 
-
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left">
-
-👨‍💻 All of my projects are available at  
-<strong><a href="https://pallavitechprofile.web.app" target="_blank">pallavitechprofile.web</a></strong>  
-
-📫 How to reach me  
-<strong><a href="https://contactpallavikhare.web.app" target="_blank">contactpallavikhare.web</a></strong>  
-
-📄 My resume  
-<strong><a href="https://drivepallavikhare.com" target="_blank">pallavikhareresume</a></strong>
-
-</td>
-    <td align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=pallavikhare3153&theme=default&hide_border=false" alt="GitHub Streak" />
-
-</td>
-  </tr>
-</table>
-
-</div>
 
