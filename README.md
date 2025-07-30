@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare3153&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare3153" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pallavikhare3153&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare3153](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)" /> </p>
 
 
 - 👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
