@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 
-- I’m a dedicated and highly motivated professional with a strong foundation  <br> in  technical skills, interpersonal skills and valuable qualities. I bring a rare <br> blend of technical knowledge, innovative thinking, & a practical, solution- <br>oriented mindset.
+- I’m a dedicated and highly motivated professional with a strong foundation   in  technical skills, interpersonal skills and valuable qualities. I bring a rare blend of technical knowledge, innovative thinking, & a practical, solution- oriented mindset.
 
 - With hands-on experience, industry-recognized certifications, and a strong <br>record of consistency and commitment, I’m passionate about leveraging technology to solve real-world problems & deliver impactful results.
 
