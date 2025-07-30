@@ -2,9 +2,9 @@
 <h1 align="center">🙏 Welcome to my profile.</h1>
 <h3 align="center">Versatile & Skilled developer in Java, React, JavaScript, HTML, CSS, Python, C, C++, Flutter, Dart, Spring & Power BI. Creating innovative secure & unique solutions. Full-stack development, Data Analytics, Software Design & App development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pallavikhare3153&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare3153](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare3153&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare3153" /> </p>
 
 
 - 👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
