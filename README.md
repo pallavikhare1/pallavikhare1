@@ -45,10 +45,6 @@
 
 
 <br>
-<div align="center">
-  <h2>My Contributions </h2>
-  
-  <img src="https://github.com/pallavikhare1/pallavikhare1/blob/output/github-snake.svg" alt="snake gif" />
 
 
   
