@@ -7,22 +7,26 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
-- 👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-- 📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
+- I’m a dedicated and highly motivated professional with a strong foundation  <br> in  technical skills, interpersonal skills and valuable qualities. I bring a rare <br> blend of technical knowledge, innovative thinking, & a practical, solution- <br>oriented mindset.
 
-- 📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
+- With hands-on experience, industry-recognized certifications, and a strong <br>record of consistency and commitment, I’m passionate about leveraging technology to solve real-world problems & deliver impactful results.
 
-- 📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
+- I’m a quick learner—adaptable, flexible, and always open to new challenges. <br>My ambition and discipline drive my personal and professional excellence. I actively  seek  opportunities where I can expand my knowledge and contribute meaningfully to organizational goals and success.
 
-- 👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
-
-- 📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
-
-- 📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
+- What sets me apart is not just my technical expertise, but also my sense of accountability, strong work ethic, and proactive approach. I thrive in collaborative environments, value effective communication, and bring focused determination 
+ to every project and task. I strive to make a positive impact through creativity,  responsibility, and a comprehensive skill set.
 
 <br>
-<br>
+
+
+👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
+
+📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
+
+📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
+
+
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pallavikhare3153&theme=default&hide_border=false" alt="GitHub Streak" />
@@ -53,4 +57,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavikhare3153&show_icons=true&locale=en" alt="pallavikhare3153" /></p>
 
 
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left">
+
+👨‍💻 All of my projects are available at  
+<strong><a href="https://pallavitechprofile.web.app" target="_blank">pallavitechprofile.web</a></strong>  
+
+📫 How to reach me  
+<strong><a href="https://contactpallavikhare.web.app" target="_blank">contactpallavikhare.web</a></strong>  
+
+📄 My resume  
+<strong><a href="https://drivepallavikhare.com" target="_blank">pallavikhareresume</a></strong>
+
+</td>
+    <td align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=pallavikhare3153&theme=default&hide_border=false" alt="GitHub Streak" />
+
+</td>
+  </tr>
+</table>
+
+</div>
 
