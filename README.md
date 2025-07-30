@@ -19,14 +19,14 @@
 
 <br>
 
+👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**
 
-
-
-📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)** 
 📫 How to reach me **[contactpallavikhare.web](https://contactpallavikhare.web.app)**
-👨‍💻 All of my projects are available at **[pallavitechprofile.web](https://pallavitechprofile.web.app)**  
+
+📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
 
 
+<br>
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pallavikhare3153&theme=default&hide_border=false" alt="GitHub Streak" />
