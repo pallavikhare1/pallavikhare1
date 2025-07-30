@@ -1,4 +1,4 @@
-[![MasterHead](https://img.pikbest.com/backgrounds/20190716/gif-technology-light-effect-e-commerce-banner-background_2835465.jpg!bw700)](https://rishavchanda.io)
+[![MasterHead](https://st.depositphotos.com/17620692/55817/v/450/depositphotos_558172420-stock-illustration-corporate-business-green-wide-banner.jpg)](https://rishavchanda.io)
 <h1 align="center">🙏 Welcome to my profile.</h1>
 <h3 align="center">Versatile & Skilled developer in Java, React, JavaScript, HTML, CSS, Python, C, C++, Flutter, Dart, Spring & Power BI. Creating innovative secure & unique solutions. Full-stack development, Data Analytics, Software Design & App development.</h3>
 
