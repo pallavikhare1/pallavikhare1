@@ -22,7 +22,6 @@
 - 📄 My resume **[pallavikhareresume](https://drivepallavikhare.com)**
 
 <br>
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pallavikhare3153&theme=default&hide_border=false" alt="GitHub Streak" />
 </div>
@@ -45,9 +44,6 @@
 
 
 <br>
-
-
-  
 </div>
 
  <br>
